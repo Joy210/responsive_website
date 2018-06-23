@@ -1,2 +1,2 @@
-# https://joy210.github.io/responsive_website/
-responsive_web
+# responsive_web
+https://joy210.github.io/responsive_website/
